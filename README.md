@@ -9,4 +9,4 @@ patching file modules/python/CMakeLists.txt
 
 This can be resolvd by copying the patch file to the opencv recipe folder 
 
-Full details and reason behind this error is explained in [https://techris.in/python/how-to-solve-hunks-failed-saving-rejects-to-file.html](https://techris.in/python/how-to-solve-hunks-failed-saving-rejects-to-file.html)
+Full explanation and reason behind this error is explained in [https://techris.in/python/how-to-solve-hunks-failed-saving-rejects-to-file.html](https://techris.in/python/how-to-solve-hunks-failed-saving-rejects-to-file.html)
